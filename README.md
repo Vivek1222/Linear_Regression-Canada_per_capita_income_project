@@ -1,6 +1,4 @@
-About Dataset:
-
-The dataset for predicting income per capita for Canada is taken from the website: data.worldbank.org
+About Dataset: The dataset for predicting income per capita for Canada is taken from the website: data.worldbank.org
 I am just using the data to practice Linear regression for single variable as a beginner.
 
 There's a story behind every dataset and here's your opportunity to share yours.
